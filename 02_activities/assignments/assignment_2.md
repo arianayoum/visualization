@@ -10,18 +10,17 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     The data visualization that I like is the one from Statistics Canada: https://health-infobase.canada.ca/covid-19/. I think what makes this visualization so great is that it's interesting and visually appealing, thus capturing the audience's attention easily (Lec 1, Slide 24). More importantly, it's highly accessible and doesn't tax any working memory (Lec 4, Slide 37). Using easy to understand and well-labeled color coding for activity levels (darker for higher levels) and up and down arrows to signify the change in trajectory of disease levels makes it intuitive for viewers to understand what's going in the visualization. Finally, it allows us to see trends at a quick glance (Lec 4, SLide 38). Making complex data easy to understand at a moment's glance is a difficult task, and the thought behind this visualization is evident.
 
-
-
-
-
+     On the other hand, Figure 1 in https://www.nature.com/articles/s41591-022-01695-5 is more difficult to understand for a multitute of reasons, and I would argue that it's more of an example of a "bad" visualization. First, it has double axes, which makes it confusing and difficult to interpret what trends we're trying to observe (Lec 7, Slide 14). Moreover, the left y-scale is inverted, while the right y-scale is normal. To not make that obvious or extra clear can be misleading for the audience (Lec 7, Slide 32). Third, all of the labels could be more intuitively named (Lec 7, Slide 10). For example, instead of "PERMAANOVA P value" it could be "Significance of Effect" or something more understandable. 
 
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      For the good visualization, something minor that was less obvious to me was why some provinces were labeled with numbers while others were not. I realized that since the colors were shades of blue, it could be harder for someone to tell what level it was so they might require the number to help them (e.g. medium blue = level 2/moderate whereas darker blue = level 3/high). Also, if someone can't see color as well the numbering could help them. However, maybe different colors could also help differentiate the levels in this case OR it could be made clearer that the numbers are also indicating activity levels. 
+
+      For the bad visualization, p-value and variance explained (the two y-axes) are very much correlated and I don't think the two axes are actually adding anything. I think having one set of the data would suffice in conveying the same message. Also, as previously mentioned, the axes labels could be renamed so they are more intuitive.
 
 
 
