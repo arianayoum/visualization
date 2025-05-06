@@ -9,21 +9,39 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
+    I used Excel for both visualizations
+
     > Who is your intended audience? 
     
+    My intended audience was the members of the Chinatown community and city developers.
+
     > What information or message are you trying to convey with your visualization? 
+
+    In Visualization_1 I am trying to show the breakdown of the issues and the sentiments surrounding each issue. In Visualization_2, I am trying to show the breakdown of individual's backgrounds of who they are and if it's a fair representation where the data is coming from.
     
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+
+    Something that I wanted to change but wasn't sure how to do was modify the colors. I wanted to make it so that the colors were distinct from one another so it would be easy to differentiate, but I don't think I was able to do that. 
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+
+    My visualization is reprodicuble because it's clear what columns of the datasets are being used within the visualizations, as I am including the names and being descriptive with my titles. 
     
     > How did you ensure that your data visualization is accessible?  
+
+    My data visualization is accessible because I increased the fonts of all axes so that they would be legible to all individuals. It's also clearly labeled with easy to understand language. 
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+    I think the individuals within the community of Chinatown would find it interesting and meaningful that other members within and outside of their immediate community care about the current state and affairs of Chinatown. I think it could also be impactful for city developers to see that citizens are actively caring about the community. 
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+
+    As a person who was also a part of the community as a tenant, I chose elements that I thought were most relevant and immediately impactful for the community. Current issues are critical to be highlighted, but to also make sure the data is coming from the right people, I thought it would be important to visualize the breakdown of who was interviewed.
     
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    Community organizers who facilitated data collection, excel chart designers who enabled my visualizations, and funding committees that supported the cause.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
